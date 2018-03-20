@@ -1,5 +1,5 @@
 ## Welcome to my GitHub Pages
 
-### Below is some of my personal project(s)
+### Below is some of my personal project(s):
 
-### <a href="https://teddynted.github.io/react-bootstrap-alerts/">Bootstrap alerts using React and Redux</a>
+#### <a href="https://teddynted.github.io/react-bootstrap-alerts/">Bootstrap alerts using React and Redux</a>
